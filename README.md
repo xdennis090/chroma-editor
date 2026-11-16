@@ -7,7 +7,7 @@
 
 **Chroma** is a lightweight, zero-dependency raster image editor running entirely in the browser. Inspired by desktop tools like Photoshop, it implements multi-layer compositing, pixel-level image filters, custom convolution kernels, and a snapshot-based undo/redo engine from scratch using **Vanilla JavaScript** and the **HTML5 Canvas 2D API**.
 
-**Live Demo:** `https://xdennis090.github.io/chroma-editor/` *(enable via GitHub Pages)*
+**Live Demo:** `https://xdennis090.github.io/chroma-editor/`
 
 ![Chroma UI Preview](./assets/preview.png)
 
