@@ -1,0 +1,26 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Optional local dev / dependency folders (if ever added)
+node_modules/
+.env
+.env.local
+
+# Temporary test exports
+chroma.png
+chroma.jpg
+chroma.webp
